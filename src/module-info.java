@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mikae
+ *
+ */
+module JavaUdemyTraining {
+}
