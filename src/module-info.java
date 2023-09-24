@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mikae
- *
- */
-module JavaUdemyTraining {
-}
